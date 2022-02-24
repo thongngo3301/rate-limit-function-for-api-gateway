@@ -18,7 +18,6 @@
 
 - Otherwise, the request will be dropped.
 
-
 <br>
 
 <h2>Future</h2>
