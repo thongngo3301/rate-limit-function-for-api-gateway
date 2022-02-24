@@ -2,6 +2,7 @@
 
 Guide:
 - Using Python3 with default venv
+- Run: python leaky_bucket.py
 
 Idea:
 - The default rate will be the capacity of the bucket in a fix interval
